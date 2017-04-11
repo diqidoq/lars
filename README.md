@@ -61,24 +61,24 @@ There are some examples of "close to what it can be" in the wild.
 
 | Name            | Active | Features  | License | Slice | Pattern | Link       | User experience |
 |-----------------|--------|-----------|---------|-------|---------|------------|-----------------|
-| Hydrogen        | ye     | pls fill  |         | -     | x       | Link       | report link     |
-| Slicex          | yes    | pls fill  |         | x     |         | Link       | report link     |
-| Guru            | no     | pls fill  |         | x     | x       | Link       | report link     |
-| Geist           | yes    | pls fill  |         | x     | x       | Link       | report link     |
-| LiveSlice       | yes    | pls fill  |         | x     |         | Link       | report link     |
-| NI Battery      | some   | pls fill  |         | x     | --      | Link       | report link     |
-| iDrum           | ?      | pls fill  |         | -     | x       | Link       | report link     |
+| Hydrogen        | ✓      | pls fill  |         | -     | ✓       | Link       | report link     |
+| Slicex          | ✓      | pls fill  |         | ✓     |         | Link       | report link     |
+| Guru            | -      | pls fill  |         | ✓     | ✓       | Link       | report link     |
+| Geist           | ✓      | pls fill  |         | ✓     | ✓       | Link       | report link     |
+| LiveSlice       | ?      | pls fill  |         | ✓     |         | Link       | report link     |
+| NI Battery      | ?      | pls fill  |         | ✓     | -       | Link       | report link     |
+| iDrum           | ?      | pls fill  |         | -     | ✓       | Link       | report link     |
 | DrumStar        | ?      | pls fill  |         | ?     |         | Link       | report link     |
 | ADM             | ?      | pls fill  |         | ?     |         | Link       | report link     |
-| RMV             | ?      | pls fill  |         | ?     | --      | Link       | report link     |
-| BreakTweaker    | ?      | pls fill  |         | ?     | x       | Link       | report link     |
-| NI Maschine     | ?      | pls fill  |         | ?     | x       | Link       | report link     |
-| orDrumBox       | ?      | pls fill  |         | ?     | x       | Link       | report link     |
-| Phatmatik       | ?      | pls fill  |         | ?     | x       | Link       | report link     |
-| Xfer Nerve      | ?      | pls fill  |         | ?     | x       | Link       | report link     |
-| Ez Drummer      | ?      | pls fill  |         | ?     | x       | Link       | report link     |
-| Addictive Drums | ?      | pls fill  |         | ?     | x       | Link       | report link     |
-| BFD             | ?      | pls fill  |         | ?     | x       | Link       | report link     |
+| RMV             | ?      | pls fill  |         | -     | -       | Link       | report link     |
+| BreakTweaker    | ✓      | pls fill  |         | ✓     | ✓       | Link       | report link     |
+| NI Maschine     | ✓      | pls fill  |         | ?     | ✓       | Link       | report link     |
+| orDrumBox       | ?      | pls fill  |         | ?     | ✓       | Link       | report link     |
+| Phatmatik       | -      | pls fill  |         | ✓     | ✓       | Link       | report link     |
+| Xfer Nerve      | ?      | pls fill  |         | ?     | ✓       | Link       | report link     |
+| Ez Drummer      | ?      | pls fill  |         | ?     | ✓       | Link       | report link     |
+| Addictive Drums | ?      | pls fill  |         | ?     | ✓       | Link       | report link     |
+| BFD             | ?      | pls fill  |         | ?     | ✓       | Link       | report link     |
 
 > We maybe should mention other Linux drum plugins but before that we must clear up if we split the list in drum sample players/creators apart from pattern and step sequencing supporting machines or not. For me Geist and Hydrogen is closest to what I am after with this paper.
 
