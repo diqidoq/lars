@@ -44,8 +44,14 @@ There are some examples of "close to what it can be" in the wild.
 | orDrumBox     | ?            | pls fill   |         | ?       | x       | Link       |
 
 
-Additionally there are many other aspects to consider:
-------------------------------------------------------
- + required replacements for proprietary and much outdated file formats like rex2 (maybe a wav > marker kind of thing?)
+## Additionally there are many other aspects to consider:
+
+ + required replacements for proprietary and much outdated file formats like rex2 (maybe a wav>marker kind of thing?)
+ + what file formats should be support in general (licenses?)
+ + what did others right (do not reinvent the wheel)
  + some maybe not too useful but sadly common concepts need to stay implemented to gain a big enough audience to build a community.
+ 
+## There is still one important point to make
+ 
+It's not about fork and splitting the hell out of a commmunity. I am an advocate of building and motivating communities and to bundle forces, not too loose them. So if anything of this white paper can go in somewhere else or can be remerged into another existing project, I am absolutely fine with that. Until then I try to prevent to stir up a hornets' nest by trying to discuss this dream inside of exisitng projects yet.
  
