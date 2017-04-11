@@ -3,9 +3,7 @@
  + ... for stand alone with in/out management and as a lv2 plugin
  + ... to make Linux pro audio even more sexy than it already is :-)
 
-```
-This document is a work in progress, so please do not feel offended or badly affected by wrongly shaped paragraphs, missing facts or anything weird for you to read until it is finished. I decided to make the progress on this document public to the Open Source community to contribute to it for a faster and more open minded finished result.
-```
+> :!: This document is a work in progress, so please do not feel offended or badly affected by wrongly shaped paragraphs, missing facts or anything weird for you to read until it is finished. I decided to make the progress on this document public to the Open Source community to contribute to it for a faster and more open minded finished result.
 
 Were do I come from for this?
 -----------------------------
