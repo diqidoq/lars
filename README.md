@@ -71,9 +71,10 @@ There are some examples of "close to what it can be" in the wild.
 
 > We maybe should mention other Linux drum plugins but before that we must clear up if we split the list in drum sample players/creators apart from pattern and step sequencing supporting machines or not. For me Geist and Hydrogen is closest to what I am after with this paper.
 
-## Additionally there are many other aspects to consider:
+## There are many additional aspects to consider:
 
- + required replacements for proprietary and much outdated file formats like rex2 (maybe a wav>marker kind of thing?)
- + what file formats should be support in general (licenses?)
- + what did others right (do not reinvent the wheel)
- + some maybe not too useful but sadly common concepts need to stay implemented to gain a big enough audience to build a community.
+ + Is this idea lost in translation because it tries to cover existing features with additions which are impossible to achieve?
+ + Are there replacements for proprietary and much outdated file formats like rex2 required for the audiop slice part and how would that be coexist and be interchangable (maybe a wav>marker kind of thing? How does PhatMatik solved this license issue?)
+ + What midi/audio/library file formats should be supported in general (Licenses?)
+ + What did others do right (*"Do not reinvent the wheel!"*)
+ + Some maybe not too useful but sadly common concepts of beat programming may need to stay implemented to gain a big enough audience to build a community around a new idea.
