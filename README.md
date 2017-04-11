@@ -3,29 +3,30 @@
 # LARS (Linux audio rhythm section machine)
 
  + a flexible sample and step sequencer based groove machine to manage complex drum and rhythm section programming via triggered samples the right way, with features like:
-   + a simple and intuitive UI
-     + no fancy, no pictures of instruments and such kindergarden
-     + smart key commands (mappable)
-     + flexible, configurable and stretchable flat design
-     + simple zoom in/out on sample shapes, envelopes, midi sequences
-   + no useless tools and toys which only limit your possible expressions
-   + real managable and groupable and smart layers for dynamic triggering and sample sound mix creation
-   + envelopes and smart envelope grouping logic (also for whole layers, groups, flow and punch grouping/design)
-   + smart and intuitive step sequencing (key commands, intuitive and fast trigger setups)
-     + Take a deeper look at Hydrogens pattern designer, seg24, Guru and Geist
+   + a simple and intuitive UI.
+     + neat and clean with only a few logical and useful flat color highlights.
+     + no fancy, no pictures of instruments or virtual mixer toys and such kindergarden.
+     + real smart key commands (multi tap, combinations, mappable).
+     + flexible, configurable and stretchable flat design.
+     + simple zoom in/out on sample shapes, envelopes, midi sequences.
+   + no useless tools and toys which only limit your possible expressions.
+   + real managable and groupable and smart layers for dynamic triggering and sample sound mix creation.
+   + envelopes and smart envelope grouping logic (also for whole layers, groups, flow and punch grouping/design).
+   + smart and intuitive step sequencing (key commands, intuitive and fast trigger setups).
+     + Take a deeper look at Hydrogens pattern designer, seg24, Guru and Geist.
    + rhythm templates, group and layer based swing faders, sync options, micro timing faders, etc.
-   + synth and noise addition feature for breath and rhythm instrument design
-   + many import/export features into every possible format
-     + embracing standarts
-     + drag and drop of samples and midi regions/patterns into DAW
-     + easy rendering of sf and other file formats for resuse
-   + loop slice and chop support incl. triggering slices of loops on certain keys
-   + typical *tricks* at hand for rhythm section pros (more here to come after shaping the papers)
- + as a *stand alone* machine with in/out management
- + as a lv2 plugin
+   + synth and noise addition feature for breath and rhythm instrument design.
+   + many import/export features into every possible format.
+     + embracing standarts.
+     + drag and drop of samples and midi regions/patterns into DAW.
+     + easy rendering of sf and other file formats for resuse.
+   + loop slice and chop support incl. triggering slices of loops on certain keys.
+   + typical *tricks* at hand for rhythm section pros (more here to come after shaping the papers).
+ + as a *stand alone* machine with in/out management.
+ + as a lv2 plugin.
  + to make Linux pro audio even more sexy than it already is :-)
- + to integrate perfect with awesome projects like my favourite Ardour and JACK or Mixbus, but also with Qtractor, LMMS and others
- + to really show off and support the advantages from Linux OS modular audio concepts and work flows over other OS
+ + to integrate perfect with awesome projects like my favourite Ardour and JACK or Mixbus, but also with Qtractor, LMMS and others.
+ + to really show off and support the advantages from Linux OS modular audio concepts and work flows over other OS.
  + to fulfil a dream of mine: to finally fill the gap of real intuitive and useful rhythm section programming for the pros on their __qualified__ fingertips.
 
 ## For the complainers about this paper
