@@ -23,8 +23,9 @@
  + envelopes and smart envelope grouping logic (also for whole layers, groups, flow and punch grouping/design).
  + _if we agree on an included_ step sequencer, let it please be smart and intuitive:
    + smart and editable multi key commands.
-   + straight-to-the-goal way of event management. no fuzz, click>add, doubleclick>remove, etc.
+   + straight-to-the-goal way of event management. no fuzz, simple click>add, doubleclick>remove, etc.
    + intuitive and fast trigger setups.
+   + drum and rhythm centric functionality and standards (notes,events,look,feel,handling)
    + take a deeper look at Hydrogens pattern designer, seg24, Guru and Geist.
    + rhythm templates
    + group and layer based swing faders
