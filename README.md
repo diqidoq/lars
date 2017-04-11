@@ -35,23 +35,23 @@ There are some examples of "close to what it can be" in the wild.
 
 ### Examples of existing projects
 
-| Name          | Activity     | Features   | License | Slices  | Pattern | Link       |
-|---------------|--------------|------------|---------|---------|---------|------------|
-| Hydrogen      | yes          | pls fill   |         | -       | x       | Link       |
-| Slicex        | yes          | pls fill   |         | x       |         | Link       |
-| Guru          | maintenaince | pls fill   |         | x       | x       | Link       |
-| Geist         | yes (v2)     | pls fill   |         | x       | x       | Link       |
-| LiveSlice     | yes          | pls fill   |         | x       |         | Link       |
-| NI Battery    | some improv. | pls fill   |         | x       | --      | Link       |
-| iDrum         | ?            | pls fill   |         | -       | x       | Link       |
-| DrumStar      | ?            | pls fill   |         | ?       |         | Link       |
-| ADM           | ?            | pls fill   |         | ?       |         | Link       |
-| RMV           | ?            | pls fill   |         | ?       | --      | Link       |
-| BreakTweaker  | ?            | pls fill   |         | ?       | x       | Link       |
-| NI Maschine   | ?            | pls fill   |         | ?       | x       | Link       |
-| orDrumBox     | ?            | pls fill   |         | ?       | x       | Link       |
-| Phatmatik     | ?            | pls fill   |         | ?       | x       | Link       |
-| Xfer Nerve    | ?            | pls fill   |         | ?       | x       | Link       |
+| Name          | Activity     | Features   | License | Slices  | Pattern | Link       | User experience report |
+|---------------|--------------|------------|---------|---------|---------|------------|------------------------|
+| Hydrogen      | yes          | pls fill   |         | -       | x       | Link       | Internal doc link      |
+| Slicex        | yes          | pls fill   |         | x       |         | Link       | Internal doc link      |
+| Guru          | maintenaince | pls fill   |         | x       | x       | Link       | Internal doc link      |
+| Geist         | yes (v2)     | pls fill   |         | x       | x       | Link       | Internal doc link      |
+| LiveSlice     | yes          | pls fill   |         | x       |         | Link       | Internal doc link      |
+| NI Battery    | some improv. | pls fill   |         | x       | --      | Link       | Internal doc link      |
+| iDrum         | ?            | pls fill   |         | -       | x       | Link       | Internal doc link      |
+| DrumStar      | ?            | pls fill   |         | ?       |         | Link       | Internal doc link      |
+| ADM           | ?            | pls fill   |         | ?       |         | Link       | Internal doc link      |
+| RMV           | ?            | pls fill   |         | ?       | --      | Link       | Internal doc link      |
+| BreakTweaker  | ?            | pls fill   |         | ?       | x       | Link       | Internal doc link      |
+| NI Maschine   | ?            | pls fill   |         | ?       | x       | Link       | Internal doc link      |
+| orDrumBox     | ?            | pls fill   |         | ?       | x       | Link       | Internal doc link      |
+| Phatmatik     | ?            | pls fill   |         | ?       | x       | Link       | Internal doc link      |
+| Xfer Nerve    | ?            | pls fill   |         | ?       | x       | Link       | Internal doc link      |
 
 > We maybe should mention other Linux drum plugins but before that wemsut clear if we split the list in drum sample players/creators apart from pattern and step sequencing supporting machines or not.
 
