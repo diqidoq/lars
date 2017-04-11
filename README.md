@@ -19,7 +19,7 @@
 
 ## For the complainers about this paper
 
-This document is a work in progress, a crib, a very early and first note. So please do not feel offended or badly affected by wrongly shaped paragraphs, typo, missing facts, missing options not mentioned or already around in other projects which are filling some of the points here, or anything weird for you to read until it is finished. A strong and self-aware feature comparision-list is planned and one of the main reasons for that paper. Also read the CHATLOG.md I decided to make the progress on this document public to the Open Source community to contribute to it for a faster and more open minded finished result.
+This document is a work in progress, a crib, a very early and first note. So please do not feel offended or badly affected by wrongly shaped paragraphs, typo, missing facts, missing options not mentioned or already around in other projects which are filling some of the points here, or anything weird for you to read until it is finished. A strong and self-aware feature comparision-list is planned and one of the main reasons for that paper. Also read the [CHATLOG.md](CHATLOG.md). I decided to make the progress on this document public to the Open Source community to contribute to it for a faster and more open minded finished result.
 
 ## Were do I come from ?
 
