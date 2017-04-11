@@ -8,10 +8,10 @@
 Were do I come from for this?
 -----------------------------
 
-All has started with a planned and written 5 pages letter to the developers of Hydrogen, a very potential and long time existing drum machine software for Linux. I have - as always - many respect for the hard work which goes into Open Source projects to make software available for professionals working on Linux like this. And I can't say it often enough how often this movement gets misunderstood and the developers and contributors treated badly IMHO. I don't want to go too deep into what community driven open source projects is about and how it works and how to contribute to them. I only want to make clear how much repect I have for this projects and how much I was already involved in such attempts.
+All has started with a planned and written 5 pages letter to the developers of Hydrogen, a very potential and long time existing drum machine software for Linux. I have - as always - many respect for the hard work which goes into Open Source projects to make software available for professionals working on Linux like this. And I can't say it often enough how often this movement gets misunderstood and the developers and contributors treated badly IMHO. I don't want to go too deep into what community driven open source projects is about and how it works and how to contribute to them. I only want to make clear how much repect I have for this projects and how much I was already involved in such attempts and how hard it is for me to find the right way to go for this issue.
 
 Here is a short excerpt out of an IRC chat were the idea was born to start this document:
-
+```
 14:26 < diqidoq> I wrote a 4 pages long letter addressed to the developer team of Hydrogen with many details and explanations about several aspects regarding the future of Hydrogen and my motivation to write this up, only to come to the final conlusion now, that this letter only shows off that it would maybe even be better to start a project like Hydrogen from scratch :-/ ... I think I won't send it *facepalm*
 14:26 < typonese> diqidoq: sometimes that's the best way to come to a conclusion :)
 14:27 < diqidoq> typonese: I know
@@ -50,6 +50,7 @@ Here is a short excerpt out of an IRC chat were the idea was born to start this 
 15:34 < diqidoq> the fly while the loop still runs from my library. I can switch many important settings with key commands and near by near interface spots. A rythm expert feels the "breath" of his section before it is finished and he needs to write it down fast. Like an author and his dictaphone. Hydrogen was close to some parts of FxPansions Geist, but only on some points. As often, its all about priorities. Which 
 15:34 < diqidoq> functionality has prio and comes first for such an approach. Thats what makes the difference between many computer audio instruments.
 15:45 < diqidoq> additionally there are many other aspects to consider, proprietary file format replacement like rex2 and others, and some common ways need to stay implemented to gain a big enough audience too. Well, I think its too mcuh for here, my road map is better than to fill the chat here ;-)
+´´´
 
 Were are we now?
 ----------------
