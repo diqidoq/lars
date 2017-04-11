@@ -3,7 +3,9 @@
  + ... for stand alone with in/out management and as a lv2 plugin
  + ... to make Linux pro audio even more sexy than it already is :-)
 
-[!] This document is a work in progress, so please do not feel offended or badly affected by wrongly shaped paragraphs, missing facts or anything weird for you to read until it is finished. I decided to make the progress on this document public to the Open Source community to contribute to it for a faster and more open minded finished result.
+```
+This document is a work in progress, so please do not feel offended or badly affected by wrongly shaped paragraphs, missing facts or anything weird for you to read until it is finished. I decided to make the progress on this document public to the Open Source community to contribute to it for a faster and more open minded finished result.
+```
 
 Were do I come from for this?
 -----------------------------
@@ -50,7 +52,7 @@ Here is a short excerpt out of an IRC chat were the idea was born to start this 
 15:34 < diqidoq> the fly while the loop still runs from my library. I can switch many important settings with key commands and near by near interface spots. A rythm expert feels the "breath" of his section before it is finished and he needs to write it down fast. Like an author and his dictaphone. Hydrogen was close to some parts of FxPansions Geist, but only on some points. As often, its all about priorities. Which 
 15:34 < diqidoq> functionality has prio and comes first for such an approach. Thats what makes the difference between many computer audio instruments.
 15:45 < diqidoq> additionally there are many other aspects to consider, proprietary file format replacement like rex2 and others, and some common ways need to stay implemented to gain a big enough audience too. Well, I think its too mcuh for here, my road map is better than to fill the chat here ;-)
-´´´
+```
 
 Were are we now?
 ----------------
