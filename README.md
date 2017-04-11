@@ -1,4 +1,4 @@
-> From a long way of testing and writing bug reports, filing issues, up to writing long letters to project maintainers, which have been never send because of doubts of mine if this is the right starting point, I came to the conclusion to start this roadmap for an *idea*.... It's just a twinkle in an eye ... and answers to the name: ...
+> From a long way of testing and writing bug reports, filing issues, up to writing long letters to project maintainers, which have been never send because of doubts of mine if this is the right starting point, I came to the conclusion to start this roadmap like a questionaire for an *idea* ... It's just a twinkle in an eye ... and by chance it became a thing ... and answers to the name: ...
 
 # LARS (Linux audio rhythm section machine)
 
@@ -11,6 +11,8 @@
  + to fulfil a dream of mine: to finally fill the gap of real intuitive and useful rhythm section programming for the pros on their __qualified__ fingertips.
  
 ## Feature roadmap
+
+>  Its all about drum and rhythm programming improvemen. It doesn't matter on which projects: on existing ones or on newly to initiate ones... 
 
  + a simple, flat and intuitive UI with pro user requirements:
    + neat and clean with only a few logical and useful flat color highlights.
