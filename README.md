@@ -29,7 +29,7 @@
    + intuitive and fast trigger setups.
    + drum and rhythm centric functionality and standards (notes,events,look,feel,handling)
    + take a deeper look at Hydrogens pattern designer, seg24, Guru and Geist.
-   + rhythm templates
+   + rhythm step pattern templates (only for musician centric accents and swing types, no kiddy library fuzz)
    + group and layer based swing faders
    + sync options
    + micro timing faders
