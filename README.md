@@ -12,7 +12,7 @@
  
 ## Feature roadmap
 
->  Its all about drum and rhythm programming improvemen. It doesn't matter on which projects: on existing ones or on newly to initiate ones ... please join with [your 2 cents](https://github.com/diqidoq/lars/issues/1).
+>  Basically it's all about drum and rhythm programming improvement. It doesn't matter on which projects: on existing ones or on newly to initiate ones ... please join with [your 2 cents](https://github.com/diqidoq/lars/issues/1).
 
  + a simple, flat and intuitive UI with pro user requirements:
    + neat and clean with only a few logical and useful flat color highlights.
