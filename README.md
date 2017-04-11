@@ -21,7 +21,7 @@
 
 ## Were do I come from ?
 
-[Who is me?](AUTHOR.md) [Where do I want to go with this?](## There is still one important point to make) All has started with a planned and written pages long [letter to the developers of Hydrogen](LETTER_TO_HYDROGEN.md), a very potential and long time existing drum machine software for Linux. I have - as always - many respect for the hard work which goes into Open Source projects to make software available for professionals working on Linux like this. And I can't say it often enough how often this movement gets misunderstood and the developers and contributors treated badly IMHO. I don't want to go too deep into what community driven open source projects is about and how it works and how to contribute to them. I only want to make clear how much repect I have for this projects and how much I was already involved in such attempts and how hard it is for me to find the right way to go for this issue.
+[Who is me?](AUTHOR.md) [Where do I want to go with this?](#end) All has started with a planned and written pages long [letter to the developers of Hydrogen](LETTER_TO_HYDROGEN.md), a very potential and long time existing drum machine software for Linux. I have - as always - many respect for the hard work which goes into Open Source projects to make software available for professionals working on Linux like this. And I can't say it often enough how often this movement gets misunderstood and the developers and contributors treated badly IMHO. I don't want to go too deep into what community driven open source projects is about and how it works and how to contribute to them. I only want to make clear how much repect I have for this projects and how much I was already involved in such attempts and how hard it is for me to find the right way to go for this issue.
 
 ## What is the motivation ?
 
@@ -62,7 +62,7 @@ There are some examples of "close to what it can be" in the wild.
  + what did others right (do not reinvent the wheel)
  + some maybe not too useful but sadly common concepts need to stay implemented to gain a big enough audience to build a community.
  
-## There is still one important point to make
+## <a name="end"></a>There is still one important point to make 
  
 It's not about forking and splitting the hell out of a community. I am an advocate for building, grouping and motivating communities and to bundle forces, not too loose them. So if anything of this white paper here can go into something else or can be remerged into another existing project, I am absolutely fine with that. It's all about improvement. But until then I try to prevent to stir up a hornets' nest by trying to discuss this dream inside of exisitng projects yet, since there are too mayn aspects which can get in the way of the roadmaps of other projects.
  
