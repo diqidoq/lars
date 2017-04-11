@@ -56,5 +56,5 @@ There are some examples of "close to what it can be" in the wild.
  
 ## There is still one important point to make
  
-It's not about fork and splitting the hell out of a community. I am an advocate of building and motivating communities and to bundle forces, not too loose them. So if anything of this white paper can go in somewhere else or can be remerged into another existing project, I am absolutely fine with that. Until then I try to prevent to stir up a hornets' nest by trying to discuss this dream inside of exisitng projects yet.
+It's not about forking and splitting the hell out of a community. I am an advocate for building, grouping and motivating communities and to bundle forces, not too loose them. So if anything of this white paper here can go into something else or can be remerged into another existing project, I am absolutely fine with that. It's all about improvement. But until then I try to prevent to stir up a hornets' nest by trying to discuss this dream inside of exisitng projects yet, since there are too mayn aspects which can get in the way of the roadmaps of other projects.
  
