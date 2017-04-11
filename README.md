@@ -59,26 +59,26 @@ There are some examples of "close to what it can be" in the wild.
 
 ### Examples of existing projects (needs clearance about the concept we are after)
 
-| Name            | Activity     | Features   | License | Slices  | Pattern | Link       | User experience report |
-|-----------------|--------------|------------|---------|---------|---------|------------|------------------------|
-| Hydrogen        | yes          | pls fill   |         | -       | x       | Link       | Internal doc link      |
-| Slicex          | yes          | pls fill   |         | x       |         | Link       | Internal doc link      |
-| Guru            | maintenaince | pls fill   |         | x       | x       | Link       | Internal doc link      |
-| Geist           | yes (v2)     | pls fill   |         | x       | x       | Link       | Internal doc link      |
-| LiveSlice       | yes          | pls fill   |         | x       |         | Link       | Internal doc link      |
-| NI Battery      | some improv. | pls fill   |         | x       | --      | Link       | Internal doc link      |
-| iDrum           | ?            | pls fill   |         | -       | x       | Link       | Internal doc link      |
-| DrumStar        | ?            | pls fill   |         | ?       |         | Link       | Internal doc link      |
-| ADM             | ?            | pls fill   |         | ?       |         | Link       | Internal doc link      |
-| RMV             | ?            | pls fill   |         | ?       | --      | Link       | Internal doc link      |
-| BreakTweaker    | ?            | pls fill   |         | ?       | x       | Link       | Internal doc link      |
-| NI Maschine     | ?            | pls fill   |         | ?       | x       | Link       | Internal doc link      |
-| orDrumBox       | ?            | pls fill   |         | ?       | x       | Link       | Internal doc link      |
-| Phatmatik       | ?            | pls fill   |         | ?       | x       | Link       | Internal doc link      |
-| Xfer Nerve      | ?            | pls fill   |         | ?       | x       | Link       | Internal doc link      |
-| Ez Drummer      | ?            | pls fill   |         | ?       | x       | Link       | Internal doc link      |
-| Addictive Drums | ?            | pls fill   |         | ?       | x       | Link       | Internal doc link      |
-| BFD             | ?            | pls fill   |         | ?       | x       | Link       | Internal doc link      |
+| Name            | Active | Features  | License | Slice | Pattern | Link       | User experience |
+|-----------------|--------|-----------|---------|-------|---------|------------|-----------------|
+| Hydrogen        | ye     | pls fill  |         | -     | x       | Link       | report link     |
+| Slicex          | yes    | pls fill  |         | x     |         | Link       | report link     |
+| Guru            | no     | pls fill  |         | x     | x       | Link       | report link     |
+| Geist           | yes    | pls fill  |         | x     | x       | Link       | report link     |
+| LiveSlice       | yes    | pls fill  |         | x     |         | Link       | report link     |
+| NI Battery      | some   | pls fill  |         | x     | --      | Link       | report link     |
+| iDrum           | ?      | pls fill  |         | -     | x       | Link       | report link     |
+| DrumStar        | ?      | pls fill  |         | ?     |         | Link       | report link     |
+| ADM             | ?      | pls fill  |         | ?     |         | Link       | report link     |
+| RMV             | ?      | pls fill  |         | ?     | --      | Link       | report link     |
+| BreakTweaker    | ?      | pls fill  |         | ?     | x       | Link       | report link     |
+| NI Maschine     | ?      | pls fill  |         | ?     | x       | Link       | report link     |
+| orDrumBox       | ?      | pls fill  |         | ?     | x       | Link       | report link     |
+| Phatmatik       | ?      | pls fill  |         | ?     | x       | Link       | report link     |
+| Xfer Nerve      | ?      | pls fill  |         | ?     | x       | Link       | report link     |
+| Ez Drummer      | ?      | pls fill  |         | ?     | x       | Link       | report link     |
+| Addictive Drums | ?      | pls fill  |         | ?     | x       | Link       | report link     |
+| BFD             | ?      | pls fill  |         | ?     | x       | Link       | report link     |
 
 > We maybe should mention other Linux drum plugins but before that we must clear up if we split the list in drum sample players/creators apart from pattern and step sequencing supporting machines or not. For me Geist and Hydrogen is closest to what I am after with this paper.
 
