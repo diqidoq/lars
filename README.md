@@ -17,7 +17,9 @@
  + to really show off and support the advantages from Linux OS modular audio concepts and work flows over other OS
  + to fulfil a dream of mine: to finally fill the gap of real intuitive and useful rhythm section programming for the pros on their __qualified__ fingertips.
 
-> This document is a work in progress, so please do not feel offended or badly affected by wrongly shaped paragraphs, missing facts or anything weird for you to read until it is finished. I decided to make the progress on this document public to the Open Source community to contribute to it for a faster and more open minded finished result.
+## For the complainers about this paper
+
+This document is a work in progress, a crib, a first note. So please do not feel offended or badly affected by wrongly shaped paragraphs, missing facts, missing optiosn already around filling some of the points here, or anything weird for you to read until it is finished. I decided to make the progress on this document public to the Open Source community to contribute to it for a faster and more open minded finished result.
 
 ## Were do I come from ?
 
