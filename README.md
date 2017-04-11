@@ -46,7 +46,7 @@ A rhythm guru is fast, and he needs something fast on his finger tips. If there 
 
 There are some examples of "close to what it can be" in the wild.
 
-### Examples of existing projects
+### Examples of existing projects (needs clearance about the concept we are after)
 
 | Name            | Activity     | Features   | License | Slices  | Pattern | Link       | User experience report |
 |-----------------|--------------|------------|---------|---------|---------|------------|------------------------|
@@ -67,9 +67,9 @@ There are some examples of "close to what it can be" in the wild.
 | Xfer Nerve      | ?            | pls fill   |         | ?       | x       | Link       | Internal doc link      |
 | Ez Drummer      | ?            | pls fill   |         | ?       | x       | Link       | Internal doc link      |
 | Addictive Drums | ?            | pls fill   |         | ?       | x       | Link       | Internal doc link      |
-| Xfer Nerve      | ?            | pls fill   |         | ?       | x       | Link       | Internal doc link      |
+| BFD             | ?            | pls fill   |         | ?       | x       | Link       | Internal doc link      |
 
-> We maybe should mention other Linux drum plugins but before that wemsut clear if we split the list in drum sample players/creators apart from pattern and step sequencing supporting machines or not.
+> We maybe should mention other Linux drum plugins but before that we must clear up if we split the list in drum sample players/creators apart from pattern and step sequencing supporting machines or not. For me Geist and Hydrogen is closest to what I am after with this paper.
 
 ## Additionally there are many other aspects to consider:
 
