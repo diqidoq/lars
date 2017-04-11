@@ -22,7 +22,7 @@
    + simple zoom in/out on sample shapes, envelopes, midi sequences.
  + no useless tools and toys which only limit your possible expressions.
  + real managable and groupable and smart sound layers for dynamic triggering and sample sound mix creation.
- + envelopes and smart envelope grouping logic (also for whole layers, groups, flow and punch grouping/design).
+ + envelopes (attack,release,sustain,relative to filters) and smart envelope grouping logic (also for whole layers, groups, flow and punch grouping/design).
  + _if we agree on an included_ step sequencer, let it please be smart and intuitive:
    + smart and editable multi key commands.
    + straight-to-the-goal way of event management. no fuzz, simple click>add, doubleclick>remove, etc.
