@@ -39,9 +39,9 @@ There are some examples of "close to what it can be" in the wild.
 | DrumStar      | ?            | pls fill   |         | ?       |         | Link       |
 | ADM           | ?            | pls fill   |         | ?       |         | Link       |
 | RMV           | ?            | pls fill   |         | ?       | --      | Link       |
-| BreakTweaker  | ?            | pls fill   |         | ?       |x        | Link       |
+| BreakTweaker  | ?            | pls fill   |         | ?       | x       | Link       |
 | NI Maschine   | ?            | pls fill   |         | ?       | x       | Link       |
-
+| orDrumBox     | ?            | pls fill   |         | ?       | x       | Link       |
 
 
 Additionally there are many other aspects to consider:
