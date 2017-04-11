@@ -2,7 +2,7 @@
 
 # LARS (Linux audio rhythm section machine)
 
- + a flexible sample triggering step sequencer based groove machine to manage complex drum sound and rhythm section programming
+ + a flexible sample triggering (step sequencer including?) Linux audio instrument to manage/support complex drum sound and rhythm section programming
  + as a *stand alone* machine with in/out management.
  + as a lv2 plugin.
  + to make Linux pro audio even more sexy than it already is :-)
@@ -21,9 +21,9 @@
  + no useless tools and toys which only limit your possible expressions.
  + real managable and groupable and smart sound layers for dynamic triggering and sample sound mix creation.
  + envelopes and smart envelope grouping logic (also for whole layers, groups, flow and punch grouping/design).
- + smart and intuitive step sequencing:
+ + _if we agree on an included_ step sequencer, let it please be smart and intuitive:
    + smart and editable multi key commands.
-   + straight to the goal way of event management.
+   + straight-to-the-goal way of event management. no fuzz, click>add, doubleclick>remove, etc.
    + intuitive and fast trigger setups.
    + take a deeper look at Hydrogens pattern designer, seg24, Guru and Geist.
    + rhythm templates
@@ -69,7 +69,7 @@ A rhythm guru is fast, and he needs something fast on his finger tips. If there 
 
 There are some examples of "close to what it can be" in the wild.
 
-### Examples of existing projects (needs clearance about the concept we are after)
+### Examples of existing projects (needs clearance about the concept we are after, step sequencer yes no?)
 
 | Name            | Active | Features  | License | Slice | Pattern | Link       | User experience |
 |-----------------|--------|-----------|---------|-------|---------|------------|-----------------|
