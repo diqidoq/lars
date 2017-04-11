@@ -1,3 +1,5 @@
+> From a long way of testing and writing bug reports, filing issues up to writing long letters to project maintainers, which have been never send because of doubts of mine if this is the right starting point, I came to the conclusion to start this roadmap for an *idea*. It's just a twinkle in an eye and answers to the name: ...
+
 # LARS (Linux audio rythm section machine)
 
  + a fully featured and flexible pattern based rythm section machine to manage samples, midi, triggering, and many more
