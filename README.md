@@ -2,13 +2,15 @@
 
 # LARS (Linux audio rythm section machine)
 
- + a flexible samples and pattern based rythm section machine to manage drum and rythm section programming via triggered samples, with features like:
-  + managed layers for dynamic triggering and sample mix creations
-  + envelopes and smart envelope grouping logic
-  + smart and intuitive step sequencing
-  + rythm templates, swing
-  + typical *tricks* at hand for rythm sectio pros
- + as a *stand alone* machine with in/out management or as a lv2 plugin
+ + a flexible samples and pattern based audio software to manage drum and rythm section programming via triggered samples the right way, with features like:
+   + managed layers for dynamic triggering and sample mix creations
+   + envelopes and smart envelope grouping logic (flow and punch grouping/design)
+   + smart and intuitive step sequencing (key commands, intuitive and fast trigger setups)
+   + rythm templates, swing fader, sync options, micro timing faders, etc.
+   + many import/export features into every possible format, embracing standarts
+   + typical *tricks* at hand for rythm section pros (more her to come after shaping the papers)
+ + as a *stand alone* machine with in/out management
+ + as a lv2 plugin
  + to make Linux pro audio even more sexy than it already is :-)
  + to integrate perfect with awesome projects like my favourite Ardour and JACK or Mixbus, but also with Qtractor, LMMS and others
  + to really show off and support the advantages from Linux OS modular audio concepts and work flows over other OS
