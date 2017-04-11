@@ -1,6 +1,5 @@
 --- Log opened Tue Apr 11 00:00:50 2017
-00:20 < digidog> las: I saw you mentioning Composite today from the logs. Maybe this is an interesting info for you? -> I had to request the removal of Composite from the Debian repos (sadly I had to because it was never ready for any use) and Gabriel has replied to it. https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=859808#69 ... I think Composite is dead. I am very sorry for all the effort until that.
-00:20 < LAbot`> Title: #859808 - composite: Composite not ready for being qualified package of Debian yet. - Debian Bug report logs (at bugs.debian.org)
+00:20 < digidog> las: I saw you mentioning Composite today from the logs. Maybe this is an interesting info for you? -> I had to request the removal of Composite from the Debian repos (sadly I had to because it was never ready for any use) and Gabriel has replied to it. https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=859808#69 ... I think Composite is dead. I am very sorry for all the effort until that. Title: #859808 - composite: Composite not ready for being qualified package of Debian yet. - Debian Bug report logs (at bugs.debian.org)
 00:21 < las> digidog: that's a shame
 00:21  * las -> mattress
 00:25 < digidog> las: yeah it is :/ ... have a good night.
@@ -38,7 +37,7 @@
 14:43 < diqidoq> lol
 14:43 < snadge> only to realise at the end of it.. the guy didn't actually use a real tr-808.. he couldn't have
 14:44 < speak> diqidoq: As someone who's made a ton of dnb and jungle, very trye :P
-14:44 < speak> also *true
+14:44 < speak> also true
 14:44 < snadge> as i used up every available pattern bank to sequence the track.. it has a bar with 6 beats, and a section of the song uses triplets on the hi-hats.. but 4/4 for everything else
 14:44 < speak> Not sure how good Hydrogen would be for that though
 14:45 < speak> I haven't given it a go due to the lack of a plugin I can just use straight in Ardour
