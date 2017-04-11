@@ -8,7 +8,8 @@
    + smart and intuitive step sequencing (key commands, intuitive and fast trigger setups)
    + rythm templates, swing fader, sync options, micro timing faders, etc.
    + many import/export features into every possible format, embracing standarts
-   + typical *tricks* at hand for rythm section pros (more her to come after shaping the papers)
+   + loop slice and chop support incl. triggering slices of loops on certain keys
+   + typical *tricks* at hand for rythm section pros (more here to come after shaping the papers)
  + as a *stand alone* machine with in/out management
  + as a lv2 plugin
  + to make Linux pro audio even more sexy than it already is :-)
