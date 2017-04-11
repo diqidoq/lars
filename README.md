@@ -31,7 +31,7 @@
    + sync options
    + micro timing faders
    + and many more
- + synth and noise addition feature for breath and rhythm instrument design.
+ + synth (humble) and noise (pink,white) addition feature for breath and rhythm instrument design.
  + many import/export features into every possible format.
    + embracing standarts.
    + drag and drop of samples and midi regions/patterns into DAW.
