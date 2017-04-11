@@ -6,7 +6,7 @@
    + managed layers for dynamic triggering and sample mix creations
    + envelopes and smart envelope grouping logic (flow and punch grouping/design)
    + smart and intuitive step sequencing (key commands, intuitive and fast trigger setups)
-   + rythm templates, swing fader, sync options, micro timing faders, etc.
+   + rythm templates, group and layer based swing faders, sync options, micro timing faders, etc.
    + many import/export features into every possible format, embracing standarts
    + loop slice and chop support incl. triggering slices of loops on certain keys
    + typical *tricks* at hand for rythm section pros (more here to come after shaping the papers)
