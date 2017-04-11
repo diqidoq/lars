@@ -42,7 +42,8 @@ There are some examples of "close to what it can be" in the wild.
 | BreakTweaker  | ?            | pls fill   |         | ?       | x       | Link       |
 | NI Maschine   | ?            | pls fill   |         | ?       | x       | Link       |
 | orDrumBox     | ?            | pls fill   |         | ?       | x       | Link       |
-
+| Phatmatik     | ?            | pls fill   |         | ?       | x       | Link       |
+| Xfer Nerve    | ?            | pls fill   |         | ?       | x       | Link       |
 
 ## Additionally there are many other aspects to consider:
 
