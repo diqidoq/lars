@@ -136,3 +136,8 @@ There are some examples of "close to what it can be" in the wild.
  + What midi/audio/library file formats should be supported in general. What licenses do they use? Are they open?
  + Upsidedown view: What did others do right (*"Do not reinvent the wheel!"*)
  + Some maybe not too useful but sadly common concepts of beat programming may need to stay implemented to gain a big enough audience to build a community around a new idea.
+ 
+ > 15:21 < speak> But yeah sounds like diqidoq doesn't have any unrealistic expectations, which really is key here!
+ > 15:35 < diqidoq> speak: indeed, because "if" ..., then ..., it wouldn't be my first dev project initiation ;-) ... but as the draft/paper states clearly already on many places: it's not about reinventing the wheel nor about a new instrument road map at first place. it's a brain pool for improvement. Where this gonna happen depends on where is the best starting point for it. And something important I already have stated here and on many other places again and again: Any attempt is only worth a word if it is made for lasting long. A problem I have stated so many times regarding OSS projects, that I even get fluff on the mouth by thinking about it. This is maybe one of the most underrated aspects of such projects because it is one of the hardest goals to achieve. Nobody can really feel that who wasn't in that situation himself for a long enough time. Sustaining a big project like Ardour for example... Keeping it up all the time. And this is why I have so much respect for project leads like Paul and others. Because I know what it means to keep a stiff upper lip.
+ > 15:46 < typonese> amen :)
+ > 15:49 < speak> diqidoq: Well said!
