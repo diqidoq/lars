@@ -48,11 +48,13 @@
 
 This document is a work in progress, a crib, a very early and first note. So please do not feel offended or badly affected by wrongly shaped paragraphs, typo, missing facts, missing options not mentioned or already around in other projects which are filling some of the points here, or anything weird for you to read until it is finished. A strong and self-aware feature comparision-list is planned and one of the main reasons for that paper. Also read the [CHATLOG.md](CHATLOG.md). I decided to make the progress on this document public to the Open Source community to contribute to it for a faster and more open minded finished result.
 
-It all happend by chance when I was investigating for drum pattern and step sequencer and drum sample machines over the last days under Linux and it wasn't planned. My experience from many pro audio software over 20 years on almost any OS lead me to the impression that non of the existing fills the gap really.
+It all happend by accident, when I was investigating for drum pattern exchange, practical minimalism on old school step sequencers and drum sample design over the last days under Linux with some discouraging results. And it wasn't planned. My experience from many pro audio software over 20 years on almost any OS lead me to the impression that non of the existing fills the gap for real pros really. Some come close, but they fail on some important parts. Many concentrate on fancy selling polish but lack some innovative work flow enhancements. Some have awesome UI but a few features. Others have interesting starting points but it never felt like finished. I think this paper makes sense because discussing all that on all discussion places of all possible exisitng projects would be a killer. Here we can have a growing overview and I invite any project to whom it may concern to shameless steel any idea, which has been shaped here. 
 
-### An important point to make ...
+> It's not about business or medding and pomposity here. It's all about improvement for the rhythm nerds. 
+
+### Another important point to make ...
  
-**It's not about forking and splitting the hell out of a community.** I am an advocate for building, grouping and motivating communities and to **bundle forces**, not too loose them. So if anything of this white paper here can go into something else or can be remerged into another existing project, I am absolutely fine with that. It's all about improvement. But until then I try to prevent to stir up a hornets' nest by trying to discuss this dream inside of existing projects yet, since there are too many aspects which can get in the way of the roadmaps of other projects.
+And! ... **It's not about forking and splitting the hell out of a community.** I am an advocate for building, grouping and motivating communities and to **bundle forces**, not too loose them. So if anything of this white paper here can go into something else or can be re-merged into another existing project, I am absolutely fine with that. It's all about improvement. But until then I try to prevent to stir up a hornets' nest by trying to discuss this dream inside of existing projects yet, since there are too many aspects which can get in the way of the roadmaps of other projects.
 
 ## Were do I come from ?
 
