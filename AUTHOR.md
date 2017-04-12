@@ -2,7 +2,7 @@
 
 ## Some clearance regarding name confusion
 
-My online nickname is diqidoq (aka digidog, both also on IRC). This is - if you say so -  my Open Source and Linux support and contribution/development nickname in the communities and on Github to seperate this whole thing from the actual person I am and what I *actually* do. It raised from my long-term contribution to the Drupal project and since then people know me under this nick name and I kept it. 
+My online nickname is diqidoq (aka digidog, both also on IRC). This is - if you say so -  my Open Source and Linux support and contribution/development nickname in the communities and on Github to seperate this whole thing from the actual person I am and what I *actually* do. It raised from my long-term contribution to the Drupal project and since then people know me under this nickname and I kept it. 
 
 My name is *Sebastian Ugovsky*. Additionally there is a music producer pseudonym I've been often credited with: [*Gilmano*](https://www.google.de/search?q=Gilmano). To look at it from scratch: I am an artist. But also an initiator, director, project lead and multimedia business guy, most of it based on my work as an author, theater & film maker, composer and long term music producer and director with many stations of work, like in London, New York, Paris, Berlin, Moscow, Los Angeles and some more.
 
