@@ -23,16 +23,17 @@
  + no useless tools and toys which only limit your possible expressions.
  + real managable and groupable and smart sound layers for dynamic triggering and sample sound mix creation.
  + envelopes (attack,release,sustain,relative to filters) and smart envelope grouping logic (also for whole layers, groups, flow and punch grouping/design).
- + _if we agree on an included_ step sequencer, let it please be smart and intuitive:
+ + _if we agree on an included_ midi step sequencer, let it please be smart and intuitive:
    + smart and editable multi key commands.
    + straight-to-the-goal way of event management. no fuzz, simple click>add, doubleclick>remove, etc.
    + intuitive and fast trigger setups.
-   + drum and rhythm centric functionality and standards (notes,events,look,feel,handling)
+   + drum and rhythm centric functionality and standards (notes, events, look, feel, handling)
    + take a deeper look at Hydrogens pattern designer, seg24, Guru and Geist.
    + rhythm step pattern templates (only for musician centric accents and swing types, no kiddy library fuzz)
-   + group and layer based swing faders
-   + sync options
-   + micro timing faders
+   + group and layer based swing faders.
+   + fast prebuild prenote/upbeat/kickoff and syncope adding options (key commands, presets)
+   + multiple sync/latch options
+   + advanced micro timing functionality (also group, pattern and layer based)
    + and many more
  + synth (humble) and noise (pink,white) addition feature for breath and rhythm instrument design.
  + many import/export features into every possible format.
