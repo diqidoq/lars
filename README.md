@@ -43,6 +43,8 @@
  + typical *tricks* at hand for rhythm section pros (more here to come after shaping the papers).
  + easy replace of samples on the fly (key command combi on selected event with up/down while loop plays)
  + a.s.o ... (list not complete)
+ 
+ ![example-snapshot-of-geist](https://www.fxpansion.com/site/assets/files/11949/geist2_browser-pattern-1.png)
 
 ## For the complainers about this paper
 
