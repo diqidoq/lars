@@ -26,7 +26,8 @@
  + real managable and groupable and smart sound layers for dynamic triggering and sample sound mix creation.
  + envelopes (attack,release,sustain,relative to filters) and smart envelope grouping logic (also for whole layers, groups, flow and punch grouping/design).
  + _if we agree on an included_ midi step sequencer, let it please be smart and intuitive:
-   + timing accurate and precisely like a clockwork.
+   + accurate and precise timing like a clockwork.
+   + horizontal and vertical timeline views (classic midi drum, event list, and tracker view)
    + smart and editable multi key commands.
    + straight-to-the-goal way of event management. no fuzz, simple click>add, doubleclick>remove, etc.
    + intuitive and fast trigger setups.
