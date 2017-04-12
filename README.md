@@ -64,6 +64,8 @@
  ![step sequencer example with individual samples per event](https://a.fsdn.com/con/app/proj/cythar-sequenzer/screenshots/drumset_cythar_sequenzer.png/1)
  ![minimal-step-sequencer-example--seq24](http://www.filter24.org/seq24/seq24.large.png)
  ![tremor-own-rare-step-sequencing-sound-shaping-concept](https://macprovid.vo.llnwd.net/o43/hub/media/1093/7163/tremor_2.png)
+ ![motu-bpm](http://www.delamar.de/wp-content/uploads/2010/08/MOTU-BPM-1.5.jpeg)
+ ![akai-renaissance](http://kb.inmusicbrands.com/media/images/akai/akai_mpc_renaissance_bpm_2.png)
 
 ## For the complainers about this paper
 
@@ -119,6 +121,7 @@ There are some examples of "close to what it can be" in the wild.
 | Ez Drummer      | ?      | pls fill  |         | ?     | ✔       | Link       | report link     |
 | Addictive Drums | ?      | pls fill  |         | ?     | ✔       | Link       | report link     |
 | BFD             | ?      | pls fill  |         | ?     | ✔       | Link       | report link     |
+| Motu BPM        | ?      | pls fill  |         | ?     | ✔       | Link       | report link     |
 
 > We maybe should mention other Linux drum plugins but before that we must clear up if we split the list in drum sample players/creators apart from pattern and step sequencing supporting machines or not. For me Geist and Hydrogen is closest to what I am after with this paper.
 
