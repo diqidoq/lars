@@ -19,6 +19,7 @@
    + neat and clean with only a few logical and useful flat color highlights.
    + no fancy, no pictures of instruments or virtual mixer toys and such kindergarden.
    + flexible, configurable and stretchable flat design.
+   + option to choose between stack and float window mode and flexible boxes.
    + real smart key commands (multi tap, combinations, mappable).
    + simple zoom in/out on sample shapes, envelopes, midi sequences.
  + embrace as much hardware controller as possible, use standards, enhance them, thighten them.
