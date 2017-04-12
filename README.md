@@ -66,6 +66,8 @@
  ![tremor-own-rare-step-sequencing-sound-shaping-concept](https://macprovid.vo.llnwd.net/o43/hub/media/1093/7163/tremor_2.png)
  ![motu-bpm](http://www.delamar.de/wp-content/uploads/2010/08/MOTU-BPM-1.5.jpeg)
  ![akai-renaissance](http://kb.inmusicbrands.com/media/images/akai/akai_mpc_renaissance_bpm_2.png)
+ ![landing-large](http://sugar-bytes.de/images/Egoist/landinglarge.jpg)
+ ![good-knobs](https://static.kvraudio.com/i/b/izotope-ozone-7-standard-standalone-dynamics.jpg)
 
 ## For the complainers about this paper
 
