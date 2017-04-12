@@ -20,10 +20,12 @@
    + flexible, configurable and stretchable flat design.
    + real smart key commands (multi tap, combinations, mappable).
    + simple zoom in/out on sample shapes, envelopes, midi sequences.
+ + embrace as much hardware controller as possible, use standards, enhance them, thighten them.
  + no useless tools and toys which only limit your possible expressions.
  + real managable and groupable and smart sound layers for dynamic triggering and sample sound mix creation.
  + envelopes (attack,release,sustain,relative to filters) and smart envelope grouping logic (also for whole layers, groups, flow and punch grouping/design).
  + _if we agree on an included_ midi step sequencer, let it please be smart and intuitive:
+   + timing accurate and precisely like a clockwork.
    + smart and editable multi key commands.
    + straight-to-the-goal way of event management. no fuzz, simple click>add, doubleclick>remove, etc.
    + intuitive and fast trigger setups.
