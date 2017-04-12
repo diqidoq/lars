@@ -122,6 +122,7 @@ There are some examples of "close to what it can be" in the wild.
 | Addictive Drums | ?      | pls fill  |         | ?     | ✔       | Link       | report link     |
 | BFD             | ?      | pls fill  |         | ?     | ✔       | Link       | report link     |
 | Motu BPM        | ?      | pls fill  |         | ?     | ✔       | Link       | report link     |
+| StiX by Xils    | ?      | pls fill  |         | ?     | ✔       | Link       | report link     |
 
 > We maybe should mention other Linux drum plugins but before that we must clear up if we split the list in drum sample players/creators apart from pattern and step sequencing supporting machines or not. For me Geist and Hydrogen is closest to what I am after with this paper.
 
