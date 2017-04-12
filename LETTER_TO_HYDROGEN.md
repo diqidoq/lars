@@ -8,7 +8,7 @@ The potential of Hydrogen is much higher than many would probably think of. I am
 
 Since I know how often drum and rhythm section programming gets misunderstood and many instrument concepts get in the mix I can surely say: It's all about communication, about making clear what Hydrogen can accomplish what others can't. _It_ actually _HAD THE POTENTIAL_ to be __the__ intuitive and fast drum machine on the qualified fingertips, others are not!
 
-But it makes me sad to see how things go wrong IMHO with Hydrogen, the road map, the development time line and the aging process, which makes it even worse. And it feels like never leaving a certain beta kind of feeling. And this is where my decision came from to write this letter to you. In the hope to motivate, to refresh, but not to offend anybody or to simply complain.
+But it makes me sad to see how things go wrong IMHO with Hydrogen, the road map, the development time line and the aging process, which makes it even worse. And it feels like never leaving a certain beta kind of status. And this is where my decision came from to write this letter to you. In the hope to motivate, to refresh, but not to offend anybody or to simply complain.
 
 I know how hart it is to keep up with a started project or to contribute to an open source project without financial support and with only limited time in life. I have much respect for your outstanding work on this project and I only would love to see it growing, more bug free and more respected in your interest.
 
