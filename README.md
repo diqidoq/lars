@@ -33,7 +33,7 @@
    + straight-to-the-goal way of event management. no fuzz, simple click>add, doubleclick>remove, etc.
    + intuitive and fast trigger setups.
    + drum and rhythm centric functionality and standards (notes, events, look, feel, handling)
-   + take a deeper look at Hydrogens pattern designer, seg24, Guru and Geist.
+   + take a deeper look at [Hydrogen](http://hydrogen-music.org)s pattern designer, [seg24](http://www.filter24.org/seq24/seq24.large.png), Guru and its precessor [FxPansion Geist](https://www.youtube.com/watch?v=uENbCYlEkR0).
    + rhythm step pattern templates (only for musician centric accents and swing types, no kiddy library fuzz)
    + group and layer based swing faders.
    + fast prebuild prenote/upbeat/kickoff and syncope adding options (key commands, presets)
