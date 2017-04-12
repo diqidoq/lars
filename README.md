@@ -61,6 +61,7 @@
  ![example-snapshot-of-geist](https://www.fxpansion.com/site/assets/files/11949/geist2_browser-pattern-1.png)
  ![step sequencer example with individual samples per event](https://a.fsdn.com/con/app/proj/cythar-sequenzer/screenshots/drumset_cythar_sequenzer.png/1)
  ![minimal-step-sequencer-example--seq24](http://www.filter24.org/seq24/seq24.large.png)
+ ![tremor-own-rare-step-sequencing-sound-shaping-concept](https://macprovid.vo.llnwd.net/o43/hub/media/1093/7163/tremor_2.png)
 
 ## For the complainers about this paper
 
