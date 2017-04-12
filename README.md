@@ -1,4 +1,4 @@
-> From a long way of testing and writing bug reports, filing issues, up to writing long letters to project maintainers, which have been never send because of doubts of mine if this is the right starting point, I came to the conclusion to start this roadmap like a questionaire for an *idea* ... It's just a twinkle in an eye ... and by chance it became a thing ... and answers to the name: ...
+> From a long way of testing and writing bug reports, filing issues, up to writing long letters to project maintainers, which have been never send because of doubts of mine if this is the right starting point, I came to the conclusion to start this road map like a questionaire for an *idea* ... It's just a twinkle in an eye ... and by chance it became a thing ... and answers to the name: ...
 
 # LARS (Linux advanced rhythm section *machine*)
 
@@ -11,7 +11,7 @@
  + to really show off and support the advantages from Linux OS modular audio concepts and work flows over other OS.
  + to fulfil a dream of mine: to finally fill the gap of real intuitive and useful rhythm section programming for the pros on their __qualified__ fingertips.
  
-## Feature roadmap
+## Feature road map
 
 >  Basically it's all about drumbeat and rhythm programming improvement. It doesn't matter on which projects: on existing ones or on newly to initiate ones ... please join with [your 2 cents](https://github.com/diqidoq/lars/issues/1).
 
@@ -80,7 +80,7 @@ It all happend by accident, when I was investigating for drum pattern exchange, 
 
 ### Another important point to make ...
  
-And! ... **It's not about forking and splitting the hell out of a community.** I am an advocate for building, grouping and motivating communities and to **bundle forces**, not too loose them. So if anything of this white paper here can go into something else or can be re-merged into another existing project, I am absolutely fine with that. It's all about improvement. But until then I try to prevent to stir up a hornets' nest by trying to discuss this dream inside of existing projects yet, since there are too many aspects which can get in the way of the roadmaps of other projects.
+And! ... **It's not about forking and splitting the hell out of a community.** I am an advocate for building, grouping and motivating communities and to **bundle forces**, not too loose them. So if anything of this white paper here can go into something else or can be re-merged into another existing project, I am absolutely fine with that. It's all about improvement. But until then I try to prevent to stir up a hornets' nest by trying to discuss this dream inside of existing projects yet, since there are too many aspects which can get in the way of the road maps of other projects.
 
 ## Were do I come from ?
 
