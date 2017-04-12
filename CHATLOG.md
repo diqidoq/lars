@@ -1,3 +1,5 @@
+You maybe can read and follow this document better in the [raw view here](https://raw.githubusercontent.com/diqidoq/lars/master/CHATLOG.md).
+
 <pre>
  + --- Log opened Tue Apr 11 00:00:50 2017
  + 00:20 < digidog> las: I saw you mentioning Composite today from the logs. Maybe this is an interesting info for you? -> I had to request the removal of Composite from the Debian repos (sadly I had to because it was never ready for any use) and Gabriel has replied to it. https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=859808#69 ... I think Composite is dead. I am very sorry for all the effort until that. Title: #859808 - composite: Composite not ready for being qualified package of Debian yet. - Debian Bug report logs (at bugs.debian.org)
