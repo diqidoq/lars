@@ -41,11 +41,21 @@
    + easy rendering of sf and other file formats for resuse.
  + loop slice and chop support incl. triggering slices of loops on certain keys.
  + typical *tricks* at hand for rhythm section pros (more here to come after shaping the papers).
- + easy replace of samples on the fly (key command combi on selected event with up/down while loop plays)
+ + fast and intuitive sample management:
+   + easy replacement of samples on the fly (key command combi on selected event with up/down while loop plays)
+   + option to keep replace settings with samples or keep them for next sample
+   + dim and raise switch to review very loud or very soft samples in context
+   + simple copy paste samples and/or its settings from here to there
+ + distraction free editing
+   + values by mouse wheel, touch slide, gestures, keys, automation by painting, moving, start/end point setting
+   + priority mode for key commands if LARS is in background
+   + no detours for common tasks
+   + easy value readablilty
+   + tips & links management to a centralized community online manual
+ + simple backup button to get folder with a bunch of usefile common files (midi, samples, patterns, setup, sf, rendered wav)
  + a.s.o ... (list not complete)
  
  ![example-snapshot-of-geist](https://www.fxpansion.com/site/assets/files/11949/geist2_browser-pattern-1.png)
- ![example-snapshot-of-fixed-pattern-design](http://blog.cakewalk.com/wp-content/uploads/2012/10/SS2.bmp)
  ![step sequencer example with individual samples per event](https://a.fsdn.com/con/app/proj/cythar-sequenzer/screenshots/drumset_cythar_sequenzer.png/1)
 
 ## For the complainers about this paper
