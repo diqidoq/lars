@@ -91,4 +91,145 @@ You maybe can read and follow this document better in the [raw view here](https:
  + 16:52 < diqidoq> speak: it is!
  + 16:52 < speak> Great :)
  + ...
+ --- Log opened Wed Apr 12 00:00:36 2017
+00:04 < rgareus> digidog: the linux audio session handler
+00:04 < rgareus> hasn't that been dead since 10 years?
+00:05 < digidog> rgareus: has it ? ... o.@
+00:05 < rgareus> pretty much since NSM
+00:07 < digidog> rgareus: sometimes it is hart to tell apart if somethings has a break, sleeps, or is dead in the Linux universe ... xD
+00:07 < rgareus> I recall adding support for it to xjadeo in 2006/8 and removing it in 2014
+00:08 < rgareus> because it didn't compile anymore 
+00:08 < digidog> rgareus: ok
+00:08 < rgareus> maybe +/- 1 year. I don't remember
+00:09 < rgareus> digidog: it's one of those  "nice idea, but too geeky for any real-world-use" things :(
+00:11 < digidog> rgareus: sounds like approaching to me :p
+...
+00:33 < rgareus> snadge: the DG devs sometimes hang out here on #ardour
+00:34 < snadge> i dont think it was drskit though
+00:34 < rgareus> chaot4  is online actually
+00:37 < snadge> maybe they can do a new kit with way less bleed and reverb ;)
+00:38 < snadge> you can always add reverb.. but you cant easily take it out
+00:39 < snadge> ill have to keep looking.. but i literally dont know what to do with 13 channels of drums with each drum in every mic
+00:40 < snadge> i guess you adjust balance, eq and compress like any other mix
+00:41 < snadge> i had a really bad time with it though :P 
+...
+00:52 < snadge> drskit is newer and a lot of effort was put into it... but...
+00:54 < snadge> i was trying to get a jazz sound out if it like the description insisted was possible ;)
+00:55 < snadge> I tried to remove that from the equation by recording just a kick drum track
+00:56 < snadge> and flattening it to a single mono audio region
+00:57 < snadge> but i couldn't get that to sound good either
+00:58 < snadge> It needs compression.. a snare has a massive attack.. which dwarfs the detail in the tail
+00:59 < snadge> which i guess is partly why you mic the top and bottom of a snare
+01:00 < digidog> snadge: your guess is right
+01:02 < digidog> snadge: but also because of the different proliferation of different frequence dominatings away from the hit
+01:03 < snadge> Yeah i guess the snare is unique in the sense that youre interested in the detail in the decay because of the springs
+01:04 < snadge> whereas a kick or tom has a less interesting decay
+01:22 < digidog> snadge: have you fetched the last comment here of the road map about drumbeat programming experience improvement? The first really early draft/questionaire is there.
+01:25 < snadge> no?
+01:28 < digidog> snadge: https://diqidoq.github.io/lars
+...
+14:03 < digidog> speak: you yesterday sad at 16:50 "I can offer expertise regarding drum programming with SliceX, if needed. I'm thoroughly familiar with it". Would you mind to post an issue on the road map repo I started yesterday? We need such reports from many of such instruments to clarify if we are on the right tracks or rather off the track..
+14:08 < digidog> speak: the link to the web view of this paper is here (still in progress) https://diqidoq.github.io/lars -  Path to the issues is here: https://github.com/diqidoq/lars/issues
+14:10 < digidog> It took me half the day of yesterday to do this paper thing *facepalm* while I actually have really spare time atm. Not even sure yet if this will be any helpful soon. But it is very important that anybody who would like to comment on this reads the whole paper first. Many complains are already addressed there.
+14:12 < digidog> I would love to see a strong coupling to Ardour and to be clear (its not about sth like EZ Drummer or time and loop matching of audio). Its about drumbeat and rhythmsection design in a seperated enviroment because of its own special needs.
+14:12 < typonese> digidog: heads up
+14:12 < typonese> 11:45 < ahellquist> rgareus, (and digidoq but he is offline) I live in the same city as Toontrack EZdrummer HQ and have been close to write them a letter to bump them into porting their stuff to linux. maybe we could do something clever if we have people volunteering to help porting ... ?
+14:12 < typonese> 11:46 < ahellquist> rgareus, I might even know someone working there. at least i know people playing instruments for them like a drummer that contributed to the sample library
+14:14 < speak> Heya digidog ! Thank you I did check that page out but you had left at that point
+14:15 < digidog> typonese: porting EZ Drummer would be great! Thanks for chiming in. But it is just another issue actually, if it is ok for you ;-) because what I am after is sth more programming engineering like and free of any UI and drag and drop patterns, etc. It wasn't accidently, that I came from Hydrogen letter to this paper ;-)
+14:15 < speak> digidog: I will also say: I think the paper needs pretty heavy editing to really make the point clear and solid
+14:15 < typonese> digidog: actually that was all from ahellquist. you'll want to check in with him i just wanted to make sure you got the messages :)
+14:15 < digidog> speak: hey !
+14:16 < digidog> speak: great I am fine with any suggestions. Please put them here if it is ok for you: https://github.com/diqidoq/lars/issues/1
+14:16 < typonese> yeah i was thinking i'd like to do a bit of proof reading for the paper. typos and grammar and whatnot
+14:16 < speak> Grand, thanks digidog!
+14:16 < digidog> speak: Which version do you read? I did a lot of more over the night later ...
+14:17 < typonese> oh yeah that's right you added nice screenshot as well
+14:17 < speak> digidog: Ooh I'm not sure, might've been an earlier draft. I can check it out again :)
+14:18 < digidog> typonese: yeah :-/ my typo is horrable atm, I know. Its a very floppy laptop keyboard, not my native tongue, and I am very tired atm after many weeks 2-3 hours sleep per day.
+14:18 < typonese> digidog: hey no problem that's what volunteers are for :)
+14:18 < digidog> typonese: I just wanted to make a start, because I knew, if I don't do it now, I will never do it.
+14:18 < typonese> i've been a bit of a mess myself after a lot of work, no sleep, and then the lorry attack on friday in stockholm
+14:19 < speak> digidog: Yeah that is absolutely smart
+14:19 < typonese> digidog: yep i understand :)
+14:19 < typonese> no complaints from me :D
+14:19 < speak> digidog: I might query about some of the parts, so that we can have more immediate dialogue about it
+14:19 < speak> *query you
+14:21 < speak> Also a question that I don't know the answer for: Is the current state of drum machine / samplers on linux a lack of ideas, or a lack of coders with motivation & time?
+14:23 < typonese> i forgot there's a video link that las and rgareus suggested to watch. need to check that out as well
+14:23 < digidog> speak: thanks for chiming in! to your Q: a mix of both. but please form such questions over there in the issue queue. it would live things up
+14:24 < speak> Cool digidog, I'll leave rest of the suggestions in the issue queue
+14:24 < digidog> we can discuss the close coupling (if useful) to Ardour here.
+14:25 < digidog> speak: awesome! thank you very much
+14:25 < digidog> typonese: omg! what a lorry attack? o.O didn't know ...
+14:26 < ahellquist> https://www.youtube.com/watch?v=usD7mWWWmoE
+14:26 < digidog> ahellquist: yeah, I know about that. its awesome. I wanted to show the link yesterday when snadge was after the parts a snare is made of.
+14:26 < ahellquist> digidog, ok, sorry
+...
+14:27 < digidog> ahellquist: no need to sorry. its an awesome attempt I wish them they will grow with it. A drum synth with complex synthesis is very interesting and very inspiring. also for other instruments.
+14:28 < ahellquist> digidog, agreed
+14:28 < typonese> ahellquist: hey that might be it yes thank you
+14:28 < ahellquist> typonese, np
+14:28 < snadge> yeah that is pretty awesome
+14:29 < typonese> digidog: yeah it happened last friday close to where i live so meh
+14:29 < snadge> do they sell a vst of this kit yet? lol
+14:29 < speak> typonese: wow that's fough
+14:29 < speak> er
+14:29 < speak> *rough
+14:29 < digidog> typonese: oh ... -.- I see ... are your relatives and friends ok?
+14:29 < typonese> rgareus: lovely. my dark humour approves 
+14:30 < typonese> digidog: thank you yes :)
+14:30 < snadge> ahh okay its not finished yet.. still, dat snare
+14:30 < typonese> speak: yeah pretty insane stuff eh?
+14:32 < rgareus> digidog: joyful as I am, today I'm tempted to say: Now you only need a team of programmers, a small resaerch team, some drummers to create a pattern library, and 5-10 years full time.
+14:33 < digidog> rgareus: thats what I thought yesterday :) ... but some parts are already there ;-)
+...
+14:40 < digidog> rgareus: but as I sad in the papers: Here we can have a growing overview and I invite any project to whom it may concern to shameless steel any idea, which has been shaped here. It’s not about business or medding and pomposity here. It’s all about improvement for the rhythm nerds.
+14:40 < digidog> SO I will put in all what we have here, no matter if it goes into a fictive LARS project or somewhere else existing.
+14:40 < rgareus> digidog: fair enough. and you have to start somewhere.
+14:42 < snadge> it seems like the effort might be justified.. just looking at whats available, people seem to be using step sequencers and standard notation... asides from hydrogen, what is there other than standard notation type sequencers/daws
+14:42 < digidog> snadge: would you mind to put this question into here? : https://github.com/diqidoq/lars/issues/1
+14:43 < digidog> snadge: copy paste is enough. we need all thoughts collected there. thats the reason for that repo actually ;-9
+14:44 < rgareus> seq24 is pretty cool
+14:44 < snadge> i've only heard that its cool.. i should probably fire it up one of these days.. because editing looping patterns, is cool
+14:45 < snadge> its a workflow that i've always wanted to explore further.. but im taking a detour with DAWs instead.. gotta learn to mix :/
+14:47 < snadge> i was dead set keen on analog mixing and avoiding daws entirely.. using outboard effects and hardware sequencers etc.. its actually kinda fun, i recommend it
+14:47 < digidog> rgareus: I still laugh about rythm / rhythm ... it was almost everywhere *facepalm* ... thanks for your fast note on this.
+14:47 < digidog> snadge: we do a lot of it here ;)
+...
+14:49 < digidog> rgareus: seq24 ... yes it is. It lacks some important parts to be ready but the way and concept it is, also in its minimalizn kind of feel, this is absolutely favouritable and distraction free. Thats why I recommend to look on it in the papers.
+...
+14:50 < digidog> rgareus: its maybe because I know what it can make with you to work this way (from the good old days) :-)
+14:51 < snadge> digidog, what are your thoughts on hardware pattern based sequencers?
+14:51 < snadge> like the tr-8
+14:52 < snadge> i've never really gotten into it much.. but im sure you can cut and paste individual drum parts etc.. and i kinda get how fiddly and annoying it can be with anything more complicated than dance 4/4 type arrangements
+14:54 < digidog> snadge: it would break the mold here to get into this topic. There are some real attracting points to make on them, but it should be put in context to the flaws, but I can't do it now.
+14:56 < snadge> yeah .. im just looking at it from the other way.. i dont think a lot of music producers really give a lot of thought to exactly how their beat is constructed.. i mean.. a drum track is a sequence of patterns.. thats it.. you copy paste them, click them in, tap them in, record it via a midi drum kit.. there's a heap of existing ways to do it
+...
+15:02 < diqidoq> No matter what I set up on Irrsi, it always logs me back in with digidog, not with with diqidoq, damn it.
+...
+15:21 < speak> rgareus: Yes hah that was the question I had in mind (re: having a bunch of programmers etc)
+15:21 < speak> But yeah sounds like diqidoq doesn't have any unrealistic expectations, which really is key here!
+15:35 < diqidoq> speak: indeed, because "if" ..., then ..., it wouldn't be my first dev project initiation ;-) ... but as the draft/paper states clearly already on many places: it's not about reinventing the wheel nor about a new instrument road map at first place. it's a brain pool for improvement. Where this gonna happen depends on where is the best starting point for it. And something important I already have stated 
+15:35 < diqidoq> here and on many other places again and again: Any attempt is only worth a word if it is made for lasting long. A problem I have stated so many times regarding OSS projects, that I even get fluff on the mouth by thinking about it. 
+15:40 < snadge> thanks for flying with united ;0
+15:45 < diqidoq> speak: this is maybe one of the most underrated aspects of such projects because it is one of the hardest goals to achieve. Nobody can really feel that who wasn't in that situation himself for a long enough time. Sustaining a big project like Ardour for example... Keeping it up all the time. And this is why I have so much respect for project leads like Paul and others. Because I know what it means to keep a stiff upper lip.
+15:46 < typonese> amen :)
+15:49 < speak> diqidoq: Well said!
+15:49 < speak> Yeah I'll add to an issue as soon as I have bit of time
+15:50 < diqidoq> speak: thx!
+...
+16:35 < diqidoq> speak: typonese: do not bother too much about how you layout your comments on LARS over there. I don't want you to leave too much time on it. Only try to be not offending to anybody. Drop in some ideas like in the chat here. Sadly I can't always copy paste the chat parts here all the time, so it would be great if you just log in on Github and put it right under the topic of the first issue started if this is the fastest way.
+16:41 < diqidoq> speak: typonese: oops that can possibly become a misunderstanding! sorry!! :/ these are too different contexts actually! nobody WAS already offending. I just meant: feel free to layout your thoughts fast like in the chat here...
+16:42 < typonese> diqidoq: hey thanks for that :) yeah i'll make sure to post questions or what have you on the git :D
+16:43 < diqidoq> typonese: sorry and thanks! :)
+16:46 < typonese> diqidoq: hey no problem, nobody got hurt :D thanks for clearing up :)
+16:46 < petererer> seq64? Nintendo 64 stuff?
+16:48 < diqidoq> petererer: there are many forks of seq24 around like seq64, seq42, etc.
+16:49 < petererer> yeah but seq64 is specifically... https://github.com/sauraen/seq64
+16:49 < petererer> sequencer64 makes more sense ofc :)
+16:49 < diqidoq> petererer: but I am pretty sure you were able to run seq24 on a nintendo box ... xD
+16:55 < petererer> so which is best? ;p
+16:59 < diqidoq> :)
+...
  </pre>
