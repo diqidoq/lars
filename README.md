@@ -2,7 +2,8 @@
 
 # LARS (Linux advanced rhythm section *machine*)
 
- + a flexible sample triggering (step sequencer including?) Linux audio instrument to manage/support complex drum sound and rhythm section programming
+ + a flexible sample triggering (step sequencer including?) Linux audio instrument to manage/support complex drumbeat sound and rhythm section programming
+ + its not about real live drum simulation, its about innovative drumbeat and rhythm section conducting. 
  + as a *stand alone* machine with in/out management.
  + as a lv2 plugin.
  + to make Linux pro audio even more sexy than it already is :-)
@@ -12,7 +13,7 @@
  
 ## Feature roadmap
 
->  Basically it's all about drum and rhythm programming improvement. It doesn't matter on which projects: on existing ones or on newly to initiate ones ... please join with [your 2 cents](https://github.com/diqidoq/lars/issues/1).
+>  Basically it's all about drumbeat and rhythm programming improvement. It doesn't matter on which projects: on existing ones or on newly to initiate ones ... please join with [your 2 cents](https://github.com/diqidoq/lars/issues/1).
 
  + a simple, flat and intuitive UI with pro user requirements:
    + neat and clean with only a few logical and useful flat color highlights.
