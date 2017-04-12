@@ -2,7 +2,7 @@
 
 > There are so many questions regarding the whole Hydrogen project raising over the last months (or even years?), I don't even know where to start.
 
-~But, maybe let me start from here (me) to get the whole picture:~ This info is placed [here now](AUTHOR.md).
+~But, maybe let me start from here (me) to get the whole picture:~ *This personal info is placed [here now](AUTHOR.md) to get out of the way.*
 
 The potential of Hydrogen is much higher than many would probably think of. I am pretty sure. For many it's just another drum thingy with a kind of outdated interface. While some developers may know that it's not. 
 
@@ -26,8 +26,8 @@ Please notice that my motivation is coupled with the will to support, contribute
     + Sometimes it says you are logged in, sometimes not. 
     + Links are dead and docs are far outdated.
     + The forum activity is low because the forum lacks many useful additions.
-    + The website ad forum is damn sloooow.
-    + The input forms act weird. DId you know that? This is like 90's.
+    + The website and especially the forum is damn slow. Do you need server resources? We maybe can help.
+    + The input forms act weird and feel broken. Sended forms often didn't get viewed (forum).
     + Why not making a hard cut here and start a new fresh Drupal 8 installation with a modern Bootstrap or whatever mobile first design
     + Users and forum posts etc can be synchronized or copied via feed import or migration modules
   4. Broken features (testing env: Debian 9 LXDE, Hydrogen 0.9.7 and compiled from source)
