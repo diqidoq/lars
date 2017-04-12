@@ -1,3 +1,5 @@
+# Excerpts of a chat history log from the #ardour IRC channel on 11.04.2017
+
 You maybe can read and follow this document better in the [raw view here](https://raw.githubusercontent.com/diqidoq/lars/master/CHATLOG.md).
 
 <pre>
