@@ -132,7 +132,7 @@ There are some examples of "close to what it can be" in the wild.
 ## There are many additional aspects to consider:
 
  + Is this idea lost in translation because it tries to cover existing features with additions which are impossible to achieve?
- + Are there replacements for proprietary and much outdated file formats like rex2 required for the audiop slice part and how would that be coexist and be interchangable (maybe a wav>marker kind of thing? How does PhatMatik solved this license issue?)
- + What midi/audio/library file formats should be supported in general (Licenses?)
- + What did others do right (*"Do not reinvent the wheel!"*)
+ + Are there replacements for proprietary and much outdated file formats like rex2 required for the audio slicing chopping part? And how would that coexist and be interchangable (maybe a wav>marker kind of thing? E.g.: How does PhatMatik solved this license issue with rex files?)
+ + What midi/audio/library file formats should be supported in general. What licenses do they use? Are they open?
+ + Upsidedown view: What did others do right (*"Do not reinvent the wheel!"*)
  + Some maybe not too useful but sadly common concepts of beat programming may need to stay implemented to gain a big enough audience to build a community around a new idea.
