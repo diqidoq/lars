@@ -2,8 +2,6 @@
 
 > There are so many questions regarding the whole Hydrogen project raising over the last months (or even years?), I don't even know where to start.
 
-~But, maybe let me start from here (me) to get the whole picture:~ *This personal info is placed [here now](AUTHOR.md) to get out of the way.*
-
 The potential of Hydrogen is much higher than many would probably think of. I am pretty sure. For many it's just another drum thingy with a kind of outdated interface. While some developers may know that it's not. 
 
 Since I know how often drum and rhythm section programming gets misunderstood and many instrument concepts get in the mix I can surely say: It's all about communication, about making clear what Hydrogen can accomplish what others can't. _It_ actually _HAD THE POTENTIAL_ to be __the__ intuitive and fast drum machine on the qualified fingertips, others are not!
